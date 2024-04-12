@@ -1,4 +1,4 @@
-# Minecraft 1.20.2 Modpack + BSL Shaders
+# Minecraft 1.20.2 Modpack + BSL Shaders [FABRIC]
 
 `MinecraftInstaller` adalah Launcher Original. Jika tidak memiliki akun ori, gunakan launcher crack. Bisa kamu cari di google.
 
