@@ -7,6 +7,7 @@
 - Fabric API
 - Iris
 - CatEyes
+- Zoomify
 
 ### Resourcepacks:
 - Slightly Smooth Font
