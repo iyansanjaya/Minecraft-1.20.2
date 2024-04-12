@@ -2,6 +2,9 @@
 
 `MinecraftInstaller` adalah Launcher Original. Jika tidak memiliki akun ori, gunakan launcher crack. Bisa kamu cari di google.
 
+### Download:
+[![Static Badge](https://img.shields.io/badge/Download-Here-00B300)]([https://instagram.com/iyansanjaya](https://github.com/iyansanjaya/mc-1.20.2/releases/tag/Minecraft))
+
 ### Mods:
 - Sodium
 - Fabric API
