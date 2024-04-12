@@ -5,6 +5,8 @@
 ### Download:
 [![Static Badge](https://img.shields.io/badge/Download-Here-00B300)]([https://instagram.com/iyansanjaya](https://github.com/iyansanjaya/mc-1.20.2/releases/tag/Minecraft))
 
+_File yang harus di download: `Minecraft.Modpack.1.20.2.poromaru.zip`_
+
 ### Mods:
 - Sodium
 - Fabric API
