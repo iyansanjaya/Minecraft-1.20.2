@@ -2,15 +2,15 @@
 
 Apakah Modpack ini bisa digunakan untuk PC Low-end? BISA! Yang penting **jangan pasang BSL Shader**.
 
-### Download File:
+## Download File:
 [![Static Badge](https://img.shields.io/badge/Download-Here-00B300)](https://github.com/iyansanjaya/mc-1.20.2/releases)
 
 _File yang harus di download: `Minecraft.Modpack.1.20.2-140424.poromaru.zip`_
 
-### Catatan:
+## Catatan:
 `MinecraftInstaller` adalah Launcher Original. Jika tidak memiliki akun ori, gunakan launcher crack. Bisa kamu cari di google.
 
-### Mods:
+## Mods:
 - Sodium
 - Fabric API
 - Iris
@@ -24,5 +24,5 @@ _File yang harus di download: `Minecraft.Modpack.1.20.2-140424.poromaru.zip`_
 ### Shaderpacks:
 - BSL_v8.2.07.1
 
-### Setting Mods:
+## Setting Mods:
 Setting semua mod sesuai keinginan melalui **Menu Mod** yang ada di halaman depan Launcher atau ketika di dalam game.
