@@ -15,6 +15,7 @@ Apakah Modpack ini bisa digunakan untuk PC Low-end? BISA! Yang penting **jangan 
 - CatEyes
 - Zoomify
 - Autofish
+- Mod Menu
 
 ### Resourcepacks:
 - Slightly Smooth Font
