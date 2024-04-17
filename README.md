@@ -11,11 +11,13 @@ Apakah Modpack ini bisa digunakan untuk PC Low-end? BISA! Yang penting **jangan 
 ## Mods:
 - Sodium
 - Fabric API
+- Fabric Language Kotlin
 - Iris
 - CatEyes
 - Zoomify
 - Autofish
 - Mod Menu
+- Yet Another Config Lib Fabric
 
 ### Resourcepacks:
 - Slightly Smooth Font
