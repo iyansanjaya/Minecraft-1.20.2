@@ -17,7 +17,7 @@ Apakah Modpack ini bisa digunakan untuk PC Low-end? BISA! Yang penting **jangan 
 - Zoomify
 - Autofish
 - Mod Menu
-- Yet Another Config Lib Fabric
+- Yet Another Config Lib
 
 ### Resourcepacks:
 - Slightly Smooth Font
