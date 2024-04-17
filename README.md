@@ -26,4 +26,5 @@ Apakah Modpack ini bisa digunakan untuk PC Low-end? BISA! Yang penting **jangan 
 - BSL_v8.2.07.1
 
 ## Setting Mods:
-Setting semua mod sesuai keinginan melalui **Menu Mod** yang ada di halaman depan Launcher atau ketika di dalam game.
+- Setting semua mod sesuai keinginan melalui **Menu Mod** yang ada di halaman depan Launcher atau ketika di dalam game.
+- Setting Key Bind agar tidak ada yang bentrok antar mod.
