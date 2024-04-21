@@ -3,7 +3,7 @@
 Apakah Modpack ini bisa digunakan untuk PC Low-end? BISA! Yang penting **jangan pasang BSL Shader**. Modpack ini bisa meningkatkan FPS karena terpasang Sodium.
 
 ## Download File:
-[![Static Badge](https://img.shields.io/badge/Download-Here-00B300)](https://github.com/iyansanjaya/mc-1.20.2/releases/download/170424/mc-1.20.2.zip)
+[![Static Badge](https://img.shields.io/badge/Download-Here-00B300)](https://github.com/iyansanjaya/mc-1.20.2/releases/download/170424/Minecraft.Modpack.1.20.2-170424.poromaru.zip)
 
 ## Catatan:
 `MinecraftInstaller` adalah Launcher Original. Jika tidak memiliki akun ori, gunakan launcher crack. Bisa kamu cari di google.
